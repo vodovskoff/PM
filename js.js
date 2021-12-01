@@ -1,6 +1,6 @@
 const axios = require('axios').default;
 axios
-    .get('https://fortnite-api.com/v1/playlists')
+    .get('https://www.paypal.com/ru/home')
     .then((response)=>{
         console.log(response);
     })
